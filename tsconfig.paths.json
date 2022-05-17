@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@enum/*": ["src/enum/*"],
+      "@view/*": ["src/view/*"],
+      "@assets/*": ["src/assets/*"],
+      "@component/*": ["src/component/*"],
+      "@model/*": ["src/model/*"],
+      "@module/*": ["src/module/*"],
+      "@mock/*": ["src/mock/*"],
+      "@provider/*": ["src/provider/*"],
+      "@service/*": ["src/service/*"]
+    }
+  }
+}
